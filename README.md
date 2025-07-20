@@ -10,7 +10,7 @@
 - Windows 11
 - VS Code
 - GitHub Copilot (Claude sonnet 4)
-## MCP
+## 利用したMCPサーバ
 - paper_search_server
 - GitHub
 
